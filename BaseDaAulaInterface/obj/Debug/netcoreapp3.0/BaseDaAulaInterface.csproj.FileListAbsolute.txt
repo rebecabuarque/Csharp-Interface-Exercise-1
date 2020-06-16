@@ -1,0 +1,11 @@
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\obj\Debug\netcoreapp3.0\BaseDaAulaInterface.csprojAssemblyReference.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\obj\Debug\netcoreapp3.0\BaseDaAulaInterface.AssemblyInfoInputs.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\obj\Debug\netcoreapp3.0\BaseDaAulaInterface.AssemblyInfo.cs
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.exe
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.deps.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.runtimeconfig.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.runtimeconfig.dev.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\bin\Debug\netcoreapp3.0\BaseDaAulaInterface.pdb
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\obj\Debug\netcoreapp3.0\BaseDaAulaInterface.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\BaseDaAulaInterface\BaseDaAulaInterface\obj\Debug\netcoreapp3.0\BaseDaAulaInterface.pdb
